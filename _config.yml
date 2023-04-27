@@ -1,9 +1,9 @@
 title: Rizuke's Blog
 email: contact@rizuke.dev
-description: >- # this means to ignore newlines until "baseurl:"
-  A place where I describe various things from my dev life.
+description: >-
+  The place where I describe things I'm learning or fun projects I'm working on.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rizuke.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rizuke.dev"
 github_username: rizuke
 
 # Build settings
