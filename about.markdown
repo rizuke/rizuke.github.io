@@ -11,4 +11,4 @@ The purpose of this blog is to write about things I'm learning and code I write 
 **Name**: Razvan Romanescu<br>
 **Email**: [contact@rizuke.dev](mailto:contact@rizuke.dev)<br>
 **Github**: [rizuke](https://github.com/rizuke)<br>
-**Linkedin**: [razvan-romanescu](https://www.linkedin.com/in/razvan-romanescu/)
+**LinkedIn**: [razvan-romanescu](https://www.linkedin.com/in/razvan-romanescu/)
