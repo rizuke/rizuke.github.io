@@ -257,6 +257,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
   jekyll-remote-theme
+  jemoji
   mercenary (~> 0.3.6)
   minima (~> 2.5)
   webrick (~> 1.8)

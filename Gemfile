@@ -25,3 +25,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "mercenary", "~> 0.3.6"
 gem "webrick", "~> 1.8"
 gem "jekyll-remote-theme"
+gem 'jemoji'
