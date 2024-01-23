@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: About
 ---
 
 I'm Rizuke and I'm a software engineer currently based in :round_pushpin: London, UK.
